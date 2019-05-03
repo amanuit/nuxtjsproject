@@ -9,7 +9,7 @@
                 <nuxt-link to="/jokes">Jokes</nuxt-link>
             </li>
              <li>
-                <nuxt-link to="/about">About</nuxt-link>
+                <nuxt-link to="/about">About Page</nuxt-link>
             </li>
         </ul>
     </header>
